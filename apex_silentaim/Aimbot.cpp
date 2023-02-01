@@ -8,7 +8,7 @@
 #include "math.h"
 #include "X11Utils.cpp"
 
-#define AIMBOT_CIRCLE_DISTANCE_2D 05
+#define AIMBOT_CIRCLE_DISTANCE_2D 300
 #define AIMBOT_DISTANCE_3D 100//(meter)
 
 class Aimbot
